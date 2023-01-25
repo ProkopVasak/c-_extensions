@@ -1,0 +1,15 @@
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.csproj.AssemblyReference.cache
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.AssemblyInfoInputs.cache
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.AssemblyInfo.cs
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.csproj.CoreCompileInputs.cache
+C:\Users\Mizej\source\repos\delegáty\delegáty\bin\Debug\net6.0\delegáty.exe
+C:\Users\Mizej\source\repos\delegáty\delegáty\bin\Debug\net6.0\delegáty.deps.json
+C:\Users\Mizej\source\repos\delegáty\delegáty\bin\Debug\net6.0\delegáty.runtimeconfig.json
+C:\Users\Mizej\source\repos\delegáty\delegáty\bin\Debug\net6.0\delegáty.dll
+C:\Users\Mizej\source\repos\delegáty\delegáty\bin\Debug\net6.0\delegáty.pdb
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.dll
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\refint\delegáty.dll
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.pdb
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\delegáty.genruntimeconfig.cache
+C:\Users\Mizej\source\repos\delegáty\delegáty\obj\Debug\net6.0\ref\delegáty.dll
